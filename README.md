@@ -8,6 +8,6 @@ Dlib kütüphanesinin Python için derlenmiş dosyalarını bulabilrsiniz. Pytho
 
 4)İndirdiğiniz dosyayı kurabilirsiniz.
   python -m pip install dlib-19.22.99-cp38-cp38m-win_amd64.whl 
-
+  
 5) python -m pip install kısmı hep sabittir. Kalan kısmı ise indirdiğiniz dosyanın uzantısı.
    
