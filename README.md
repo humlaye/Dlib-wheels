@@ -11,3 +11,4 @@ Dlib kütüphanesinin Python için derlenmiş dosyalarını bulabilrsiniz. Pytho
   
 5) python -m pip install kısmı hep sabittir. Kalan kısmı ise indirdiğiniz dosyanın uzantısı.
    
+6) Daha fazlası için " https://medium.com/@farukozgur501/python-i%C3%A7in-dlib-k%C3%BCt%C3%BCphanesinin-kurulumu-135dcb262601 " üzerinden bilgi alabilirsiniz
